@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Przemek, I've been programming since high school, starting with C++. Then, during the course of my studies I've done hands-on projects with C#, Java, JS and some low-level DSP (Digital Signal Processor) stuff with C and ASM. Profesionally I work as a Backend Dev w/ Python, TypeScript and Cloud technologies (AWS mostly so far).
+I'm Przemek, I've been programming since high school, starting with C++. Then, during the course of my studies I've done hands-on projects with C#, Java, JS and some low-level DSP (Digital Signal Processor) stuff with C and ASM. Profesionally I work as a Backend Dev w/ Python, Node.js, TypeScript and Cloud technologies (AWS mostly so far).
 
 #### In short
 - 👨‍🎓 BSc in Electronics and Telecomunications (Gdansk University of Technology)
