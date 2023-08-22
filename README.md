@@ -8,7 +8,7 @@ I'm Przemek, I've been programming since high school, starting with C++. Then, d
 - 🌱 Diving deeper into the cloud world
 
 #### Contributions
-[SaaS Boilerplate by Apptension](https://github.com/apptension/saas-boilerplate) 900+ ⭐
+[SaaS Boilerplate by Apptension](https://github.com/apptension/saas-boilerplate) 1k+ ⭐
 
 #### Certificates
 
